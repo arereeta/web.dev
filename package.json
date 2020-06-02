@@ -73,6 +73,7 @@
     "chokidar-cli": "^1.2.2",
     "common-tags": "^1.8.0",
     "dotenv": "^8.2.0",
+    "eleventy-plugin-toc": "github:MichaelSolati/eleventy-plugin-toc#feat/options",
     "eslint": "^6.8.0",
     "eslint-config-google": "^0.11.0",
     "eslint-config-prettier": "^6.0.0",
