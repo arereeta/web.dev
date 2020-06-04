@@ -120,7 +120,7 @@ module.exports = ({back, backLabel, collection, path, slug, lang}) => {
     return html`
       <a
         class="w-article-navigation__link w-article-navigation__link--back ${isSingle &&
-          `w-article-navigation__link--single`} gc-analytics-event"
+        'w-article-navigation__link--single'} gc-analytics-event"
         data-category="web.dev"
         data-label="navigation, go back"
         data-action="click"
